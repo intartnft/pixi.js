@@ -20,8 +20,7 @@ Create your scene, shape and then add shape to your scene then render. That's it
         const scene = new Pixi.Scene({
             canvas: canvas,
             backgroundColor: "#ffffff",
-            scenePixelSize: { width: 65, height: 65 },
-            isStatic: true,
+            scenePixelSize: { width: 65, height: 65 }
         })
 
         const shape = new Pixi.Shape({
