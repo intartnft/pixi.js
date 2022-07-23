@@ -1,9 +1,9 @@
 # pixi.js
-![pixi.js](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-An interactive pixel art rendering engine for browsers
+![pixi.js](https://github.com/thedudesnft/pixi.js/blob/main/assets/pixi.gif?raw=true)
+#### An interactive pixel art rendering engine for browsers
 
 ## Usage
-Download the latest [minified library](https://raw.github.com/jonobr1/two.js/dev/build/two.min.js) and include it in your html.
+Download the latest [minified library](https://github.com/thedudesnft/pixi.js/blob/main/build/pixi.min.js) and include it in your html.
 
 ```html
 <script src="js/pixi.min.js"></script>
@@ -56,7 +56,7 @@ Here is boilerplate html in order to render a png in pixi.js:
 pixi.js uses [nodejs](http://nodejs.org/) in order to build source files. You'll first want to install that. Once installed open up a terminal and head to the repository folder:
 
 ```
-cd ~/path-to-repo/pixi.js
+cd ~/path-to-repo
 npm install
 ```
 
