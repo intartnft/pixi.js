@@ -5,11 +5,12 @@
 ## Usage
 Download the latest [minified library](https://github.com/thedudesnft/pixi.js/blob/main/build/pixi.min.js) and include it in your html.
 
+Here is boilerplate html in order to render a png in pixi.js. First include the latest pixi.js:
 ```html
 <script src="js/pixi.min.js"></script>
 ```
 
-Here is boilerplate html in order to render a png in pixi.js:
+Create your scene, shape and then add shape to your scene then render. That's it!. For more, please check the [examples](https://github.com/thedudesnft/pixi.js/tree/main/examples).
 ```html
 <body>
     <canvas id="canvas"></canvas>
