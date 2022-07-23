@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "open": "^8.4.0",
+    "webpack-cli": "^4.10.0",
+    "connect": "^3.7.0",
+    "serve-static": "^1.15.0"
+  },
+  "scripts": {
+    "start": "node start.js",
+    "build": "webpack"
+  },
+  "name": "pixi.js",
+  "version": "1.0.0",
+  "description": "a js library to render interactive pixel art on modern browsers",
+  "main": "/src/pixi/Pixi.js",
+  "author": "thedude",
+  "license": "MIT"
+}
